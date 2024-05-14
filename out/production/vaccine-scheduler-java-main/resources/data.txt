@@ -1,0 +1,22 @@
+caregiver:
+    caregiver1, Ss123456!
+    caregiver2, Ss234567!
+    caregiver3, Ss345678!
+    caregiver4, Ss456789!
+
+patients:
+    patient1, Ss456123!!
+    patient2, Ss567234!
+    patient3, Ss678345!
+    patient4, Ss789456!
+
+Availabilities:
+    caregiver1, 15 16 17
+    caregiver2, 15 16 18
+    caregiver3, 15 17 18
+    caregiver4, 16 17 18
+
+Vaccine:
+    Pfizer, 100
+    HPV, 50
+    Flu, 50
